@@ -26,9 +26,9 @@ const Hero_Section = () => {
                             </p>
                         </div>
                         <p className="mt-4 text-md md:w-[52%] tracking-wide leading-7 hover:skew-x-3 text-center">
-                            I'm a Full Stack Developer in Surat, Gujarat.
-                            I have 1 year and 6 month Experience in Web and App development. I have serious passion for Backend Development,
-                            Let's make something special.
+                            Proficient in creating appointment booking, sports
+                            booking, IoT-pot, textile, Luxchono watch, and E-Commerce
+                            applications. Adept at collaborating with cross-functional teams and possessing a strong foundation in backend technologies. Let's make something special.
                         </p>
                         <div className="space-x-3 mt-6 md:mt-4 text-white animate-pulse">
                             <a href="https://github.com/Vrushabh1482001">
@@ -53,8 +53,8 @@ const Hero_Section = () => {
                         </div>
                         <div className="flex mt-10 space-x-5">
 
-                            <a href='mailto:vrushabhsatasiya82001@gmail.com'><button className="bg-blue-900 text-white border-2 border-white px-6 py-2 hover:brightness-105 font-semibold transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 duration-300">
-                                Contact Me
+                            <a href='https://drive.google.com/file/d/1ugvPON28rsCMIMWLV7ctEuK62TxexSD4/view?usp=sharing' target='_blank'><button className="bg-blue-900 text-white border-2 border-white px-6 py-2 hover:brightness-105 font-semibold transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 duration-300">
+                                Resume
                             </button></a>
                         </div>
                     </div>

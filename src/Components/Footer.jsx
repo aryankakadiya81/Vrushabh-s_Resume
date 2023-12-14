@@ -15,12 +15,16 @@ const Footer = () => {
                             <div className="text-black text-[15px] font-[550] leading-6 tracking-wide mt-0 md:order-5 md:pt-0 lg:pb-28">
                                 <div className="flex justify-start">
                                     <h1 className="text-black pb-[38px] font-sans uppercase font-normal tracking-wider underline underline-offset-[12px] decoration-red-500/90">
-                                        Language </h1>
+                                        Soft Skills </h1>
                                 </div>
                                 <p>
-                                    <p>&diams; Gujarati</p>
-                                    <p>&diams; Hindi</p>
-                                    <p>&diams; English</p>
+                                    <p>&diams; Team Collaboration</p>
+                                    <p>&diams; Problem Solving</p>
+                                    <p>&diams; Communication</p>
+                                    <p>&diams; Project management</p>
+
+                                    
+
                                 </p>
                             </div>
                         </div>

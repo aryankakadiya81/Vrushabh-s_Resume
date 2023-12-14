@@ -26,6 +26,7 @@ const Team_Section = () => {
                                 </div>
                                 <div className=" italic text-gray-500">Partner</div>
                             </div>
+                            
                             <div className="flex-col py-2 ">
                                 <div className="h-40 w-60 rounded-2xl overflow-hidden bg-gray-200">
                                     <img
