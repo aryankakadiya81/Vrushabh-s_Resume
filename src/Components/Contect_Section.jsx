@@ -21,7 +21,7 @@ const Contect_Section = () => {
                         }
                         <div className="flex flex-col justify-center items-center lg:flex-row lg:space-y-0  lg:space-x-10">
 
-                            <a href='callto:+91 7069182001'>
+                            <a href='callto:+91 7069182001' className='hover:opacity-80'>
                                 <div className="bg-white shadow-lg flex flex-col justify-center rounded-lg items-center h-56 md:w-fit lg:w-fit md:px-12">
                                     <div className="font-semibold text-2xl border rounded-full p-4 bg-green-600"><i class="fa-solid fa-phone text-5xl text-white"></i></div>
                                     <p className="text-center text-lg p-5">
@@ -29,7 +29,7 @@ const Contect_Section = () => {
                                     </p>
                                 </div>
                             </a>
-                            <a href='mailto:vrushabhsatasiya82001@gmail.com'>
+                            <a href='mailto:vrushabhsatasiya82001@gmail.com' className='hover:opacity-80'>
                                 <div className="bg-white shadow-lg flex flex-col justify-center rounded-lg items-center h-56 md:w-fit lg:w-fit my-10">
                                     <div className="font-semibold text-2xl border rounded-full p-4 bg-red-600"><i class="fa-solid fa-envelope text-5xl text-white"></i></div>
                                     <p className="text-center text-lg p-5">
@@ -37,7 +37,7 @@ const Contect_Section = () => {
                                     </p>
                                 </div>
                             </a>
-                            <a href='https://github.com/Vrushabh1482001' target='_blank'>
+                            <a href='https://github.com/Vrushabh1482001' target='_blank' className='hover:opacity-80'>
                             <div className="bg-white shadow-lg flex flex-col justify-center rounded-lg items-center h-56 md:w-fit lg:w-fit">
                                 <div className="font-semibold text-2xl border rounded-full p-4 bg-blue-600"><i class="fa-brands fa-github text-5xl text-white"></i></div>
                                 <p className="text-center text-lg p-5">
